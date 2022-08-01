@@ -1,4 +1,4 @@
-# Simple Slider Project
+# Simple Spoiler Project
 
 Hello! Its a training project to show my skills. It`s a spoiler with color-change, hide-show text function, little plus-in-the-corner movements and css-responsie design.
 If you click on it, it opens only one paragraph at a time (and closes others, if open)
